@@ -13,7 +13,6 @@ yarn-error.log*
 .env.*  # .env.local, .env.production, etc.
 
 # Build outputs
-/dist/
 /build/
 /public/
 
